@@ -9,4 +9,11 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Codeuctivity.ImageSharpCompare" Version="3.0.183" />
+    <PackageReference Include="LightningChart" Version="10.5.1.1" />
+    <PackageReference Include="MathNet.Numerics" Version="5.0.0" />
+    <PackageReference Include="OxyPlot.WindowsForms" Version="2.1.2" />
+  </ItemGroup>
+
 </Project>
